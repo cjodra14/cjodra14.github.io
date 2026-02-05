@@ -1,6 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'C Jodra personal site'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
