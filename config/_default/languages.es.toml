@@ -1,13 +1,13 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 1
+languageCode = "es"
+languageName = "Spanish"
+weight = 2
 title = "C Jodra"
-contentDir = 'content/en'
+contentDir = 'content/es'
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ES"
+  isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
@@ -20,8 +20,8 @@ contentDir = 'content/en'
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-  headline = "Exploring limits, on the screen, the nature, and the road"
-  bio = "Hello! I am a Golang Sofware Engineer at CounterCraft, where I focus on Go, and AI agents. On this blog I will share the side projects I am working on, from Data projects to hardware experiments."
+  headline = "Explorando los limites, en la pantalla, la naturaleza, y la carretera"
+  bio = "Hola! Soy Ingeniero de Software en CounterCraft, enfocado en Go, y agentes IA. En este blog compartiré los proyectos en los que estoy trabajando, desde proyectos de ciencia de datos hasta experimentos de hardware."
   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
