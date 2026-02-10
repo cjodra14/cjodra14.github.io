@@ -18,10 +18,10 @@ contentDir = 'content/es'
 [params.author]
   name = "Christian Jodra"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+  image = "img/cjodra.JPG"
 #   imageQuality = 96
   headline = "Explorando los limites, en la pantalla, la naturaleza, y la carretera"
-  bio = "Hola! Soy Ingeniero de Software en CounterCraft, enfocado en Go, y agentes IA. En este blog compartiré los proyectos en los que estoy trabajando, desde proyectos de ciencia de datos hasta experimentos de hardware."
+  bio = "Ingeniero de Software de Golang en CounterCraft"
   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

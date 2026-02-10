@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C Jodra</title>
+    <title>Pagina de inicio on C Jodra</title>
     <link>http://localhost:1313/es/</link>
-    <description>Recent content on C Jodra</description>
+    <description>Recent content in Pagina de inicio on C Jodra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Christian Jodra</copyright>
-    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/es/about/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/about/</guid>
+      <description>&lt;p&gt;Christian Jodra es un Ingeniero de Software de Golang en CounterCraft, Euskadi. Se especializa en Go, Ingenieria de Datos e IA Agentica.&lt;/p&gt;&#xA;&lt;p&gt;Actualmente, se dedica a dar vida a la Inteligencia Artifical, a traves de herramientas que la conecten con el mundo real.&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>

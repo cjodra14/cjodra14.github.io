@@ -10,18 +10,18 @@ contentDir = 'content/en'
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  # logo = "img/avatar.png"
+   secondaryLogo = "img/avatar.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Christian Jodra"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
+  image = "img/cjodra.JPG"
+  imageQuality = 96
   headline = "Exploring limits, on the screen, the nature, and the road"
-  bio = "Hello! I am a Golang Sofware Engineer at CounterCraft, where I focus on Go, and AI agents. On this blog I will share the side projects I am working on, from Data projects to hardware experiments."
+  bio = "Golang Sofware Engineer at CounterCraft"
   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

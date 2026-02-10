@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  identifier = "About"
+  pageRef = "about"
+  weight = 40
+
+[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/cjodra14"
@@ -31,7 +36,7 @@
   pageRef = "tags"
   weight = 10
 
-[[footer]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
